@@ -1,6 +1,4 @@
-# woocommerce-telemetry-blocker
-Hard-blocks WooCommerce tracker telemetry and wipes tracking options on activation.
-
+=== WooCommerce Telemetry Blocker ===
 Plugin URI: https://github.com/frontiers-wp/woocommerce-telemetry-blocker
 Donate link: https://paypal.me/EBekedam
 Contributors: frontiers
@@ -13,6 +11,8 @@ Requires PHP: 8.1
 Stable tag: 1.0.0
 License: GPLv2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
+
+This lightweight WordPress plugin WooCommerce Telemetry Blocker for WooCommerce improves the privacy and respcect DNT, GDPR of your website. 
 
 == Description ==
 
